@@ -10,7 +10,9 @@ OpenGL project for CSU44052 Computer Graphics.
 
 ### Texture mapping of scene and characters
 
-![A snow-person is visible made up of 3 stacked spheres. The top sphere has a face made from lumps of coal, while the lower 2 spheres have a line of buttons made from coal. 2 stick arms are attached to either side of the middle sphere.](screenshots/texture_mapping.png)
+![A snow-person is visible made up of 3 stacked spheres. The top sphere has a face made from lumps of coal, while the lower 2 spheres have a line of buttons made from coal. 2 stick arms are attached to either side of the middle sphere.](screenshots/texture_mapping_1.png)
+
+![A Christmas tree in the shape of a cone is visible, with variations in colour between different shades of green and brown. The trunk of the tree is a brown cylinder that also shows variation in texture.](screenshots/texture_mapping_2.png)
 
 ### Implementation of Phong illumination model
 
@@ -24,7 +26,7 @@ OpenGL project for CSU44052 Computer Graphics.
 
 ### Partial transparency using Alpha blending
 
-![A snow-person is visible behind a partially transparent Christmas tree that is a solid cone.](screenshots/animated_crowd.png)
+![A snow-person is visible behind a partially transparent Christmas tree that is a solid cone.](screenshots/partial_transparency.png)
 
 ### Skybox (using cubemap)
 
