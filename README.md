@@ -1,4 +1,4 @@
-# 4th year Graphics Project
+# Graphics Project 2023
 
 OpenGL project for CSU44052 Computer Graphics.
 
